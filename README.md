@@ -9,6 +9,6 @@ Actual version have mounting holes for NEMA17 motor.
 ## Main parts
 - [Shaft](STL/Shaft.stl)
 - [Body](STL/Body.stl)
-- [Front cover](STL/Cover_front.stl)
+- [Front cover](STL/Front_cover.stl)
 - [Back cover](STL/Cover_back.stl)
 
