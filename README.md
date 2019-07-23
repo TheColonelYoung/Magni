@@ -9,6 +9,11 @@ Belts are mounted on 32 teeth gears. Gears are printed from HIPS, so are more st
 Ration between motor rotation and actuator shift is 3 mm shift per 1 rotation if motor.
 Maximal achievable speed is around 20mm/s with common motor.
 
+Possible issue is with stability of push rod.
+This can be resolved by mounting trapezoid into bearings.
+But bearings need to be perfectly in line, because otherwise can be bearing damaged by turning of main rod.
+Stability can be upgraded with better stability of body, this can be achieved by more mounting screws between gearbox and body.
+
 ## Main parts
 - [Shaft](STL/Shaft.stl)
 - [Body](STL/Body.stl)
@@ -17,5 +22,4 @@ Maximal achievable speed is around 20mm/s with common motor.
 - [Pulley - motor](STL/Pulley_32T_B5.stl)
 - [Pulley - trapezoid](STL/Pulley_32T_B12.stl)
 - [Gearbox - base part](STL/Gearbox_body.stl)
-- [Tensioner head](STL/Tensioner_head.stl)
 
