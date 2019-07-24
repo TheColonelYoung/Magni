@@ -22,4 +22,5 @@ Stability can be upgraded with better stability of body, this can be achieved by
 - [Pulley - motor](STL/Pulley_32T_B5.stl)
 - [Pulley - trapezoid](STL/Pulley_32T_B12.stl)
 - [Gearbox - base part](STL/Gearbox_body.stl)
+- [Tensioner head](STL/Tensioner_head.stl)
 
