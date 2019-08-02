@@ -32,3 +32,11 @@ Stability can be upgraded with better stability of body, this can be achieved by
 - [Gearbox - base part](STL/Gearbox_body.stl)
 - [Tensioner head](STL/Tensioner_head.stl)
 
+## Other parts
+- Bearings
+    - 4x12x4, 1 pcs
+    - 12x18x4, 4pcs
+- Belt - GT2, 155mm closed loop belt
+- Trapezoidal screw rod T12 - length 172mm
+- Steel bearing balls - diameter 4mm, 40 pcs
+- Screws - TODO
