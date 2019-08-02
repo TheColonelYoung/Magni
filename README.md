@@ -16,6 +16,12 @@ This can be resolved by mounting trapezoid into bearings.
 But bearings need to be perfectly in line, because otherwise can be bearing damaged by turning of main rod.
 Stability can be upgraded with better stability of body, this can be achieved by more mounting screws between gearbox and body.
 
+# Pictures
+### **Open gearbox**
+![](pics/magni_2.png)
+### **Cross section of shaft**
+![](pics/magni_cross_section.png)
+
 ## Main parts
 - [Shaft](STL/Shaft.stl)
 - [Body](STL/Body.stl)
