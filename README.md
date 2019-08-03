@@ -11,6 +11,8 @@ Belts are mounted on 32 teeth gears. Gears are printed from HIPS, so are more st
 Ration between motor rotation and actuator shift is 3 mm shift per 1 rotation if motor.
 Maximal achievable speed is around 20mm/s with common motor.
 
+Inside shaft is fixed printed T-nut. Commercial steel nut not fit into this tight space. This nut is best to print from HIPS because is one of the most the stiffest material from from commercially available (another possibility is carbon fibber filled PLA). Nut is fixed in shaft by 4 worm screws.
+
 Possible issue is with stability of push rod.
 This can be resolved by mounting trapezoid into bearings.
 But bearings need to be perfectly in line, because otherwise can be bearing damaged by turning of main rod.
