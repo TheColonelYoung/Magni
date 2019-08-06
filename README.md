@@ -18,6 +18,20 @@ This can be resolved by mounting trapezoid into bearings.
 But bearings need to be perfectly in line, because otherwise can be bearing damaged by turning of main rod.
 Stability can be upgraded with better stability of body, this can be achieved by more mounting screws between gearbox and body.
 
+### Build-in bearings
+This gcode can be placed into marked layer to stop during print. During pause can be bearing inserted, after it print can be resumed by pressing a button.
+Issue can be if you are using sticky parameter. So speed of command after this block can be affected by last used speed.
+```gcode
+G91
+G1 E-6 F4800
+G1 Z50 F600
+M300 S300 P1000
+M0 Click to continue...
+G1 Z-50 F600
+G1 E6.5 F4800
+G90
+```
+
 # Pictures
 ### **Open gearbox**
 ![](pics/magni_2.png)
